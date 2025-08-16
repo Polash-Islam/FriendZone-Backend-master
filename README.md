@@ -38,5 +38,5 @@ FriendZone is hosted on Microsoft Azure cloud.
 
 ### Frontend
 
-- Angular ([FriendZone Frontend Repository]((https://github.com/Polash-Islam/friend-zone-front-end-master))
+- Angular ([FriendZone Frontend Repository](https://github.com/Polash-Islam/friend-zone-front-end-master))
 
